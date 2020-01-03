@@ -2,8 +2,8 @@
 //  AppDelegate.m
 //  Test
 //
-//  Created by 九元航空 on 2019/12/27.
-//  Copyright © 2019 齐庆斌. All rights reserved.
+//  Created by XLaws on 2019/12/27.
+//  Copyright © 2019 XLaws. All rights reserved.
 //
 
 #import "AppDelegate.h"
